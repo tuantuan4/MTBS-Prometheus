@@ -5,7 +5,7 @@
 
 ## Tech
 Project trên sử dụng các công nghệ như Java, framework Spring boot, Mysql, OpenTelemetry:
-- [Java] - Java Programing!
+- [Java] - Java Programing language!
 - [Spring boot] - Framework of Java
 - [Mysql] - Relational database.
 - [OpenTelemetry] - OpenTelemetry is an Observability framework and toolkit designed to create and manage telemetry data such as traces, metrics, and logs
